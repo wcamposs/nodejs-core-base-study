@@ -1,0 +1,22 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.2.153",
+    "@swc/jest": "^0.2.20",
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-node": "^10.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
